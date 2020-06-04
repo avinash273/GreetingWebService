@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * In Spring’s approach to building RESTful web services, HTTP requests are handled by a controller.
  * These components are identified by the @RestController annotation
+ * https://spring.io/guides/gs/rest-service/#initial
  */
 
 @RestController
